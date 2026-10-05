@@ -1,0 +1,9 @@
+out/
+out-test/
+lib/
+reports/
+docs/api/
+*.class
+work/
+*.lnk
+TradeOptima.exe
